@@ -1,0 +1,10 @@
+#background{
+    background-image: url("/6_imagem_de_fundo/img/cidade.jpg");
+    background-size: cover;
+    height: 400px;
+}
+
+#background h2{
+    color: #FFF;
+    text-align: center;
+}
